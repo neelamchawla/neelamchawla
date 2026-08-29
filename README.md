@@ -44,7 +44,7 @@ Transforming ideas into intelligent software through clean code, creativity, and
 🚀 Specialization: AI • Full Stack • Machine Learning
 💻 Current Focus: Frontend AI Engineering Internship
 🎯 Mission: Creating impactful AI-powered digital experiences
-```
+
 
 - 🚀 Building scalable and modern web applications.
 - 🤖 Developing AI-powered solutions with practical impact.
