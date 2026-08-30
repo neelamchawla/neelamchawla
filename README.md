@@ -167,18 +167,6 @@ Frontend AI Engineering Tasks
 
 <!-- --- -->
 
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</p>
-
-<p align="center">
-
-Made with ❤️ by **Neelam Ramrakhiani**
-
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -217,6 +205,17 @@ Made with ❤️ by **Neelam Ramrakhiani**
 
 ---
 
+<p align="center">
 
+⭐ Thanks for visiting my profile ⭐
 
+</p>
+
+<p align="center">
+
+Made with ❤️ by **Neelam Ramrakhiani**
+
+</p>
+
+---
 
