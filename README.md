@@ -89,7 +89,7 @@ Transforming ideas into intelligent software through clean code, creativity, and
 
 ---
 
-# 🚀 Featured Projects
+<!-- # 🚀 Featured Projects
 
 <table>
 <tr>
@@ -163,7 +163,7 @@ Frontend AI Engineering Tasks
 
 > **"The best way to predict the future is to build it."**
 
-</p>
+</p> -->
 
 ---
 
@@ -197,20 +197,15 @@ Made with ❤️ by **Neelam Ramrakhiani**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/neelam-r/" target="_blank">
-<img src="https://framerusercontent.com/images/gCzmjbKAujhcoTW0yEaBakxWb4.jpg"/>
-<!-- <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
+<img src="https://framerusercontent.com/images/gCzmjbKAujhcoTW0yEaBakxWb4.jpg" width="60" height="60"/>
 </a>
 
 <a href="mailto:neelam.projects@gmail.com">
-
-  
-<!-- <img src="https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white"/> -->
-<img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21939811/newgmaillogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"/>
+<img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21939811/newgmaillogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" width="60" height="60"/>
 </a>
 
 <a href="https://github.com/neelamchawla">
-<!-- <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> -->
-<img src="https://images.icon-icons.com/2699/PNG/512/github_logo_icon_168170.png"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/github_logo_icon_168170.png" width="60" height="60"/>
 </a>
 </p>
 
