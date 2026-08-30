@@ -195,21 +195,21 @@ Made with ❤️ by **Neelam Ramrakhiani**
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="33%" align="center">
 <a href="https://www.linkedin.com/in/neelam-r/" target="_blank">
-<img src="https://framerusercontent.com/images/gCzmjbKAujhcoTW0yEaBakxWb4.jpg" width="50" height="50"/>
+<img src="https://framerusercontent.com/images/gCzmjbKAujhcoTW0yEaBakxWb4.jpg" width="400" />
 </a>
 </td>
 <td width="33%" align="center">
 <a href="mailto:neelam.projects@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="400" />
 </a>
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/neelamchawla">
-<img src="https://images.icon-icons.com/2699/PNG/512/github_logo_icon_168170.png" width="50" height="50"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/github_logo_icon_168170.png" width="400" />
 </a>
 </td>
 </tr>
