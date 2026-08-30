@@ -69,7 +69,7 @@ Transforming ideas into intelligent software through clean code, creativity, and
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,python,java,cpp,cs,flutter,dart,git,github,vscode,figma,postman&perline=8" />
+<img src="./tech-stack.gif" />
 
 </p>
 
@@ -77,9 +77,9 @@ Transforming ideas into intelligent software through clean code, creativity, and
 <i>Building modern web applications with AI-powered technologies.</i>
 </p>
 
----
+<!-- --- -->
 
-<!-- # 📈 Contribution Graph
+<!-- # 📈 1. Contribution Graph
 
 <p align="center">
 
@@ -87,9 +87,9 @@ Transforming ideas into intelligent software through clean code, creativity, and
 
 </p> -->
 
----
+<!-- --- -->
 
-<!-- # 🚀 Featured Projects
+<!-- # 🚀 2. Featured Projects
 
 <table>
 <tr>
@@ -157,7 +157,7 @@ Frontend AI Engineering Tasks
 
 ---
 
-# 💬 Favorite Quote
+# 💬 3. Favorite Quote
 
 <p align="center">
 
@@ -165,7 +165,7 @@ Frontend AI Engineering Tasks
 
 </p> -->
 
----
+<!-- --- -->
 
 <p align="center">
 
@@ -195,19 +195,25 @@ Made with ❤️ by **Neelam Ramrakhiani**
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 <a href="https://www.linkedin.com/in/neelam-r/" target="_blank">
-<img src="https://framerusercontent.com/images/gCzmjbKAujhcoTW0yEaBakxWb4.jpg" width="60" height="60"/>
+<img src="https://framerusercontent.com/images/gCzmjbKAujhcoTW0yEaBakxWb4.jpg" width="50" height="50"/>
 </a>
-
+</td>
+<td width="33%" align="center">
 <a href="mailto:neelam.projects@gmail.com">
-<img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21939811/newgmaillogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" width="60" height="60"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="50" height="50"/>
 </a>
-
+</td>
+<td width="33%" align="center">
 <a href="https://github.com/neelamchawla">
-<img src="https://images.icon-icons.com/2699/PNG/512/github_logo_icon_168170.png" width="60" height="60"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/github_logo_icon_168170.png" width="50" height="50"/>
 </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
