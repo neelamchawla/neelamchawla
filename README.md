@@ -209,7 +209,7 @@ Made with ❤️ by **Neelam Ramrakhiani**
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/neelamchawla">
-<img src="https://images.icon-icons.com/2699/PNG/512/github_logo_icon_168170.png" width="400" />
+<img src="https://a.storyblok.com/f/270183/20663/2e1c1ef290/blog_github-desktop_pull-requests_1200x600.png" width="400" />
 </a>
 </td>
 </tr>
